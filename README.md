@@ -1,4 +1,5 @@
 Customer Behavior Analysis Dashboard
+
 Overview
 The Customer Behavior Analysis Dashboard is a Flask-based web application designed to help businesses gain deep insights into customer purchasing patterns. Using advanced data science techniques, the dashboard enables segmentation, lifetime value prediction, trend analysis, and reporting—all in an interactive, user-friendly interface.
 Features
